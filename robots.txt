@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /ai-computing-daily-site/
+Disallow: /ai-computing-daily-site/preview/
+Disallow: /ai-computing-daily-site/status/
+Disallow: /ai-computing-daily-site/brief/unpublished/
+
+Sitemap: https://1234calm.github.io/ai-computing-daily-site/sitemap.xml

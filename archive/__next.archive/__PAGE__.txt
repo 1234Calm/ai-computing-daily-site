@@ -1,0 +1,28 @@
+2:"$Sreact.fragment"
+3:I[7121,[],""]
+4:I[4581,[],""]
+9:"static/chunks/500-fc3b64d9ff4a32a7.js"
+a:"static/chunks/585-49050c3856c191fa.js"
+b:"static/chunks/app/archive/page-441d9a407e290fb1.js"
+c:I[7138,["500","$9","585","$a","635","$b"],"NewsExplorer"]
+d:I[484,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[484,[],"$11"]
+13:"MetadataBoundary"
+14:I[484,[],"$13"]
+15:I[6869,[],"IconMark"]
+6:X
+6:C
+7:X
+8:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","header",null,{"className":"inner-header","children":[["$","span",null,{"className":"eyebrow","children":"EVERY EDITION, IN ONE PLACE"}],["$","h1",null,{"children":["The archive",["$","span",null,{"children":"历史简报"}]]}],["$","p",null,{"children":"Follow the ideas, not just the news cycle. 按日期回看，按主题探索。"}]]}],["$","div",null,{"className":"date-index","aria-label":"按日期浏览","children":[[],["$","p",null,{"children":"尚无正式简报。首期发布后，日期索引将在这里自动生成。"}]]}],["$","$Lc",null,{"briefs":[],"archive":true}]]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$7"}}]]
+1:[["children",{"s":"archive","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Archive / 历史归档 | AI & Computing Daily"}],["$","meta","1",{"name":"description","content":"A daily bilingual briefing on AI and computing. 先读英文报道，再深入中文技术解读。以原始来源为依据，关注值得长期理解的进展。"}],["$","link","2",{"rel":"canonical","href":"https://1234calm.github.io/ai-computing-daily-site/archive/"}],["$","link","3",{"rel":"alternate","type":"application/rss+xml","href":"https://1234calm.github.io/ai-computing-daily-site/rss.xml"}],["$","meta","4",{"property":"og:title","content":"Archive / 历史归档 | AI & Computing Daily"}],["$","meta","5",{"property":"og:description","content":"A daily bilingual briefing on AI and computing. 先读英文报道，再深入中文技术解读。以原始来源为依据，关注值得长期理解的进展。"}],["$","meta","6",{"property":"og:site_name","content":"AI & Computing Daily"}],["$","meta","7",{"property":"og:locale","content":"zh_CN"}],["$","meta","8",{"property":"og:locale:alternate","content":"en_US"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary"}],["$","meta","11",{"name":"twitter:title","content":"Archive / 历史归档 | AI & Computing Daily"}],["$","meta","12",{"name":"twitter:description","content":"A daily bilingual briefing on AI and computing. 先读英文报道，再深入中文技术解读。以原始来源为依据，关注值得长期理解的进展。"}],["$","link","13",{"rel":"icon","href":"/ai-computing-daily-site/icon.svg?399b3bb0941b54e0","type":"image/svg+xml","sizes":"any"}],["$","$L15","14",{}]]}]}],null]}],null]}],"p":"$@16","v":null,"s":"$7"}},"a":"$@17","u":"$@18","b":"XdDJQ4aj9PH44URh-UU_a"}
+f:null
+18:true
+7:300
+7:C
+17:0
+5:"$undefined"
+16:"$undefined"
+10:"$undefined"
